@@ -1,1 +1,2 @@
-# Planetary_api
+# Planetary API
+A simple API
